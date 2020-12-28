@@ -12,4 +12,4 @@ Any alterations made to this code by subsequent users must be logged in the READ
 The name of the user, explanation of the changes/additions made, and a disclaimer holding the original programmer (DoublePhoenix) free of any blame/liability related to any unfortunate circumstance that may arise due to said alterations.
 Additionally, this program must be given out and used as a FREE, OPEN SOURCE program. 
 Any individual using this program may not profit directly from this program by selling it or any subsequent changes in a manner that makes payment mandatory.
-This program should be distributed under the same terms described in this readme. Any additions to these terms may not nullify any previous declarations. Any questions/appeals/revisions to or about this license should be directed the the original programmer (DoublePhoenix).
+This program should be distributed under the same terms described in this readme. Any additions to these terms may not nullify any previous declarations. Any questions/appeals/revisions to or about this license should be directed the the original programmer (fijitheislandboy).
